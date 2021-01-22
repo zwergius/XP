@@ -120,7 +120,7 @@
         "name": "Mamá Chicó",
         "stack": "Svelte, Sapper, JavaScript, HTML, CSS",
         "title": "Mamá Chicó",
-        "type": "Menu Card Web",
+        "type": "Mobile Web",
         "url": "http://mamachico.com/madrid/corredera/en/",
         "visible": true
       },
@@ -132,7 +132,7 @@
         "name": "bauz.studio",
         "stack": "Gatsby, React, JavaScript, HTML, CSS",
         "title": "bauz.studio",
-        "type": "Creative Wesite",
+        "type": "Creative Website",
         "url": "https://bauz.studio/",
         "visible": true
       },
