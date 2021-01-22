@@ -125,6 +125,18 @@
         "visible": true
       },
       {
+        "description": "project.eldanes.description",
+        "devices": ["web", "mobile"],
+        "iconName": "eldanes-logo",
+        "id": "el-danes",
+        "name": "El Danés",
+        "stack": "Svelte, Sapper, JavaScript, HTML, CSS",
+        "title": "El Danés",
+        "type": "Creative Website + PWA",
+        "url": "https://www.eldanés.com",
+        "visible": false
+      },
+      {
         "description": "project.bauz.description",
         "devices": ["web"],
         "iconName": "bauz-logo",
