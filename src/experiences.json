@@ -7,7 +7,9 @@
     "link": "",
     "projects": [
       {
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "description": "project.heineken.description",
         "iconName": "heineken-logo",
         "id": "heineken",
@@ -16,10 +18,13 @@
         "title": "Heineken Backoffice Portal",
         "type": "Web App",
         "visible": true,
-        "url":""
+        "url": ""
       },
       {
-        "devices": ["mobile", "tablet"],
+        "devices": [
+          "mobile",
+          "tablet"
+        ],
         "description": "project.bpFuels.description",
         "iconName": "bp-logo",
         "id": "bp-fuels",
@@ -28,10 +33,12 @@
         "title": "BP Fuels Apps.",
         "type": "Hybrid Apps",
         "visible": true,
-        "url":""
+        "url": ""
       },
       {
-        "devices": ["tablet"],
+        "devices": [
+          "tablet"
+        ],
         "description": "project.bpServiceScan.description",
         "iconName": "bp-logo",
         "id": "bp-service-scan",
@@ -40,10 +47,12 @@
         "title": "BP Service Scan",
         "type": "Hybrid Apps",
         "visible": false,
-        "url":""
+        "url": ""
       },
       {
-        "devices": ["mobile"],
+        "devices": [
+          "mobile"
+        ],
         "description": "project.herfy.description",
         "iconName": "herfy-logo",
         "id": "herfy",
@@ -55,7 +64,9 @@
         "url": "https://apps.apple.com/es/app/herfy-delivery/id1300514088"
       },
       {
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "description": "project.jlr.description",
         "iconName": "jaguar-land-rover-logo",
         "id": "jaguar-land-rover",
@@ -67,7 +78,9 @@
         "url": ""
       },
       {
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "description": "project.arm.description",
         "iconName": "arm-logo",
         "id": "arm",
@@ -89,8 +102,101 @@
     "link": "/apps/club-vulco",
     "projects": [
       {
+        "description": "project.adnami.description",
+        "devices": [
+          "web",
+          "mobile"
+        ],
+        "iconName": "adnami",
+        "id": "adnami",
+        "name": "Adnami - Suite Platform",
+        "stack": "SvelteKit: Architecture & Frontend Team Lead",
+        "title": "Adnami - Suite Platform",
+        "type": "Web App",
+        "url": "https://www.adnami.io/",
+        "visible": true
+      },
+      {
+        "description": "project.gorm-braille.description",
+        "devices": [
+          "web",
+          "mobile"
+        ],
+        "iconName": "gorm-braille",
+        "id": "gorm-braille",
+        "name": "GORM Agency - Braille Project",
+        "stack": "Serverless Functions & Auth Setup for Static Braille Website",
+        "title": "GORM Agency - Braille Project",
+        "type": "Web App",
+        "url": "https://www.gorm.agency/",
+        "visible": true
+      },
+      {
+        "description": "project.todo-bien.description",
+        "devices": [
+          "web",
+          "mobile"
+        ],
+        "iconName": "todo-bien-logo",
+        "id": "todo-bien",
+        "name": "todo bien",
+        "stack": "Static Website",
+        "title": "todo bien",
+        "type": "Web App",
+        "url": "https://www.todo-bien.com/",
+        "visible": true
+      },
+      {
+        "description": "project.toma.description",
+        "devices": [
+          "web",
+          "mobile"
+        ],
+        "iconName": "toma-logo",
+        "id": "toma",
+        "name": "Toma Café",
+        "stack": "Shopify Custom Storefront",
+        "title": "TOMA Café",
+        "type": "Web App",
+        "url": "https://toma.cafe",
+        "visible": true
+      },
+      {
+        "description": "project.vermouth-nu.description",
+        "devices": [
+          "web",
+          "mobile"
+        ],
+        "iconName": "vermouth-nu-logo",
+        "id": "vermouth.nu",
+        "name": "Vermouth.NU",
+        "stack": "Static Website",
+        "title": "Vermouth.NU",
+        "type": "Web App",
+        "url": "https://www.vermouth.nu",
+        "visible": true
+      },
+      {
+        "description": "project.martinsen.description",
+        "devices": [
+          "web",
+          "mobile"
+        ],
+        "iconName": "martinsen-logo",
+        "id": "martinsen",
+        "name": "martinsen",
+        "stack": "Shopify Custom Storefront",
+        "title": "martinsen®",
+        "type": "Web App",
+        "url": "https://www.martinsen-nordic.dk",
+        "visible": true
+      },
+      {
         "description": "project.nowtestWebapp.description",
-        "devices": ["web", "mobile"],
+        "devices": [
+          "web",
+          "mobile"
+        ],
         "iconName": "nowtest-logo",
         "id": "nowtest.webapp",
         "name": "NowTest - The App",
@@ -102,7 +208,9 @@
       },
       {
         "description": "project.nowtestReader.description",
-        "devices": ["mobile"],
+        "devices": [
+          "mobile"
+        ],
         "iconName": "nowtest-logo",
         "id": "nowtest.reader",
         "name": "The Reader",
@@ -114,7 +222,9 @@
       },
       {
         "description": "project.mamachico.description",
-        "devices": ["mobile"],
+        "devices": [
+          "mobile"
+        ],
         "iconName": "mamachico-logo",
         "id": "mama-chico",
         "name": "Mamá Chicó",
@@ -126,7 +236,10 @@
       },
       {
         "description": "project.eldanes.description",
-        "devices": ["web", "mobile"],
+        "devices": [
+          "web",
+          "mobile"
+        ],
         "iconName": "eldanes-logo",
         "id": "el-danes",
         "name": "El Danés",
@@ -138,7 +251,9 @@
       },
       {
         "description": "project.bauz.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "bauz-logo",
         "id": "bauz.studio",
         "name": "bauz.studio",
@@ -150,7 +265,9 @@
       },
       {
         "description": "project.mucolysin.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "ogilvy-logo",
         "id": "mucolysin",
         "name": "Ogilvy",
@@ -162,7 +279,9 @@
       },
       {
         "description": "project.ortex.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "ortex-comp-logo",
         "id": "ortex",
         "name": "Ortex",
@@ -174,7 +293,9 @@
       },
       {
         "description": "project.keepcomp.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "keep-comp-logo",
         "id": "keep-komp",
         "name": "keep comp*",
@@ -186,7 +307,9 @@
       },
       {
         "description": "project.keyboard.description",
-        "devices": ["iOS"],
+        "devices": [
+          "iOS"
+        ],
         "iconName": "yes-no-keyboard-logo",
         "id": "yes-no-keyboard",
         "stack": "Swift, Snapkit",
@@ -198,7 +321,9 @@
       },
       {
         "description": "project.portfolio.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "portfolio-logo",
         "id": "zwergius-web",
         "name": "zwergius.com",
@@ -210,7 +335,9 @@
       },
       {
         "description": "project.clubVulco.description",
-        "devices": ["iOS"],
+        "devices": [
+          "iOS"
+        ],
         "iconName": "club-vulco-logo",
         "id": "club-vulco",
         "name": "Club Vulco",
@@ -232,7 +359,9 @@
     "projects": [
       {
         "description": "project.fkxWeb.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "fortknoxster-logo",
         "id": "fortknoxster-web",
         "stack": "React, JavaScript, HTML, CSS, WebCrypto",
@@ -244,7 +373,9 @@
       },
       {
         "description": "project.fkxCrypto.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "fortknoxster-logo",
         "id": "fortknoxster-crypto-lib",
         "stack": "JavaScript, Webpack, NPM, Webcrypto",
@@ -266,7 +397,9 @@
     "projects": [
       {
         "description": "project.pinpointer.description",
-        "devices": ["iOS"],
+        "devices": [
+          "iOS"
+        ],
         "iconName": "pinpointer-logo",
         "id": "pinpointer",
         "name": "PinPointer",
@@ -288,7 +421,9 @@
     "projects": [
       {
         "description": "project.packlinkPro.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "packlink-pro-logo",
         "id": "packlink-pro",
         "name": "Packlink Pro",
@@ -300,7 +435,9 @@
       },
       {
         "description": "project.packlinkEbay.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "ebay-logo",
         "id": "packlink-pro-ebay",
         "name": "Packlink Pro eBay",
@@ -312,7 +449,9 @@
       },
       {
         "description": "project.packlinkBackoffice.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "backoffice-packlink",
         "id": "packlink-backoffice",
         "name": "Packlink Backoffice",
@@ -334,7 +473,9 @@
     "projects": [
       {
         "description": "project.ba.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "british-airways-logo",
         "id": "british-airways",
         "name": "British Airways",
@@ -346,7 +487,9 @@
       },
       {
         "description": "project.iberia.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "iberia-logo",
         "id": "iberia",
         "name": "Iberia",
@@ -367,7 +510,9 @@
     "projects": [
       {
         "description": "project.onebookie.description",
-        "devices": ["web"],
+        "devices": [
+          "web"
+        ],
         "iconName": "onebookie-logo",
         "id": "onebookie",
         "name": "OneBookie",
