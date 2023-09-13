@@ -22,10 +22,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: distributhor/workflow-webhook@v3
 
       # Runs a single command using the runners shell
       - name: Deploy www.eldanés.com
+        uses: distributhor/workflow-webhook@v3
         with:
           url: "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/61b4392a-dc0b-4fdc-ad2b-c90880b5cdc9"
 
