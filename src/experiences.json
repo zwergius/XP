@@ -144,7 +144,7 @@
         "title": "todo bien",
         "type": "Web App",
         "url": "https://www.todo-bien.com/",
-        "visible": true
+        "visible": false
       },
       {
         "description": "project.toma.description",
