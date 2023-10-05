@@ -102,6 +102,21 @@
     "link": "/apps/club-vulco",
     "projects": [
       {
+        "description": "project.flindt-orsted.description",
+        "devices": [
+          "web",
+          "mobile"
+        ],
+        "iconName": "flindt-orsted",
+        "id": "flindt-orsted",
+        "name": "Flindt & Ørsted Café",
+        "stack": "SvelteKit, Storyblok & Netlify ",
+        "title": "Flindt & Ørsted Café",
+        "type": "Web App",
+        "url": "https://www.flindtorsted.cafe/",
+        "visible": true
+      },
+      {
         "description": "project.adnami.description",
         "devices": [
           "web",
