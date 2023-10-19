@@ -247,7 +247,7 @@
         "title": "Mamá Chicó",
         "type": "Mobile Web",
         "url": "http://mamachico.com/madrid/corredera/en/",
-        "visible": true
+        "visible": false
       },
       {
         "description": "project.eldanes.description",
