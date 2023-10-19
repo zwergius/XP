@@ -246,8 +246,8 @@
         "stack": "Svelte, Sapper, JavaScript, HTML, CSS",
         "title": "Mamá Chicó",
         "type": "Mobile Web",
-        "url": "http://mamachico.com/madrid/corredera/en/",
-        "visible": false
+        "url": "",
+        "visible": true
       },
       {
         "description": "project.eldanes.description",
