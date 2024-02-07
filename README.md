@@ -39,7 +39,7 @@ Motivated by performant applications and beautiful UI's
 - Slick animations
 - Solving puzzles (code problems)
 - Logic
-- Learning new technologies:
+- Learning new technologies
 
 Don't hesitate to reach out I am excited to hear about your project and how I can help you create value with an online presence. 
 
